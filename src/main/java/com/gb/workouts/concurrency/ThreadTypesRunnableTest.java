@@ -15,5 +15,6 @@ public class ThreadTypesRunnableTest {
 
         }
         System.out.println("Leaving main");
+
     }
 }
